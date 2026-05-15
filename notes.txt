@@ -3,3 +3,5 @@ https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.mulesoft.c
 
 
 https://trailhead.salesforce.com/users/strailhead/trailmixes/getting-started-with-anypoint-platform-dex-401
+
+eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.mulesoft.com%2Fapi%2Fproducts%3Fname%3Dstudio%26version%3Dlatest%26os%3Dwindows%26verification%3D1382160007116&data=05%7C02%7Crogelio.samson%40viseo.com%7C557a26724af04373779208deb26e9202%7Cd63970718e3e45d2a2d636698acf0fea%7C0%7C0%7C639144385125816143%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=LVsayvgxKYPbC5CelO5gB7IVFVRxOcY127BYLZDA14U%3D&reserved=0
